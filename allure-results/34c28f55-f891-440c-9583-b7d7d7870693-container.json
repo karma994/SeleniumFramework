@@ -1,0 +1,1 @@
+{"uuid":"34c28f55-f891-440c-9583-b7d7d7870693","name":"uitest.BitsLoginLogoutTest","children":["2a0a52b2-6bd2-4f49-a97c-2e391f962378"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1645165530443,"stop":1645165535042}],"afters":[],"start":1645165530379,"stop":1645165548762}
